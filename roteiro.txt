@@ -31,14 +31,17 @@ Roteiro
 
 
 
-Links para dados
-
-  Download 
+Links
+  Materiais técnicos
+  https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/outros_documentos_tecnicos/introducao_sig_qgis/Introducao_ao_ambiente_SIG_QGIS_2edicao.pdf
+  http://www.iepa.ap.gov.br/saofza/pdf/anexoIII_especificacoes_normas_tecnicas_elaboracao_cartas_sao.pdf
+  
+  Download de dados
   https://acervofundiario.incra.gov.br/acervo/acv.php
   https://antigo.mma.gov.br/areas-protegidas/cadastro-nacional-de-ucs/itemlist/category/130-cadastro-nacional-de-uc-s.html
   https://inde.gov.br/CatalogoGeoservicos 
   http://areasprioritarias.mma.gov.br/2-atualizacao-das-areas-prioritarias
-  https://antigo.mma.gov.br/seguranca-quimica/cartas-de-sensibilidade-ao-oleo/base-de-dados.html (http://www.iepa.ap.gov.br/saofza/pdf/anexoIII_especificacoes_normas_tecnicas_elaboracao_cartas_sao.pdf)
+  https://antigo.mma.gov.br/seguranca-quimica/cartas-de-sensibilidade-ao-oleo/base-de-dados.html 
 
   Servicos
   http://siscom.ibama.gov.br/geoserver/web/
