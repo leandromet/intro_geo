@@ -11,7 +11,7 @@ Roteiro
 
 3- Adicionar Camadas
 
-4- Verificar projecoes
+4- Verificar projecoes e validade de geometrias
 
 5- Criar Layout
   - Inserir elementos graficos
@@ -20,9 +20,9 @@ Roteiro
 6- Geoprocessar
   - Join espacial
   - Join tabular
-   - Selecao por localizacao
-   - Selecai por atributo
-   - Selecao por exprecao
+  - Selecao por localizacao
+  - Selecao por atributo
+  - Selecao por expressao
    
   
 
