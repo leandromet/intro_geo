@@ -43,9 +43,12 @@ Links
   https://inde.gov.br/CatalogoGeoservicos 
   http://areasprioritarias.mma.gov.br/2-atualizacao-das-areas-prioritarias
   https://antigo.mma.gov.br/seguranca-quimica/cartas-de-sensibilidade-ao-oleo/base-de-dados.html 
+  
 
   Servicos
   http://siscom.ibama.gov.br/geoserver/web/
   https://geoservicos.ibge.gov.br/geoserver/ows?version=1.3.0
+  *https://bdgex.eb.mil.br/portal/index.php?option=com_content&view=article&id=77&Itemid=221&lang=pt
+  
 
 
