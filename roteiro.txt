@@ -18,15 +18,13 @@ pag: 24, 32-39, 40, 43, 49-53, 56-68, 74-77, 83-95, 99-104, 115, 118-121, 125 ..
 
 5- Criar Layout
   - Inserir elementos graficos
-  - ..
  
 6- Geoprocessar
-  - Join espacial
-  - Join tabular
   - Selecao por localizacao
   - Selecao por atributo
   - Selecao por expressao
-   
+  - Join espacial
+  - Join tabular   
   
 
 7- Conectar num banco
