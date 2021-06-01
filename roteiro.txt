@@ -1,6 +1,9 @@
 Roteiro
 
-0-  Intro
+0-  Intro 
+Apostila Qgis IBGE
+pag: 24, 32-39, 40 (quadro2), 
+
 
 1- Abrir projeto Qgis
   - Instalar complementos
