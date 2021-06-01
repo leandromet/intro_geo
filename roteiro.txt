@@ -2,7 +2,7 @@ Roteiro
 
 0-  Intro 
 Apostila Qgis IBGE
-pag: 24, 32-39, 40 (quadro2), 
+pag: 24, 32-39, 40, 43, 49-53, 56-68, 74-77, 83-95, 99-104, 115, 118-121, 125 ...55
 
 
 1- Abrir projeto Qgis
